@@ -1,2 +1,0 @@
-# Projeto-Setor-T.I-SEDUC-JABOAT-O
-Projeto De Software Para O Setor De T.I ( SECRETARIA DA EDUCAÇÃO DE JABOATÃO DOS GUARARAPES) 
