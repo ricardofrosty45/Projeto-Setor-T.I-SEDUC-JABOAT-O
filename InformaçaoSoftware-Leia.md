@@ -5,6 +5,7 @@ Visando o controle de equipamentos, serviços internos e serviços escolares
 A versão beta 1.0 consiste em cadastramento de serviços e equipamentos do setor e consulta do dados cadastrados;
 O servidor foi feita pelo PostGre SQL 4, onde fiz um servidor e um Database intranet visando o funcionamento exclusivamente para Setor
 O software tem uma interface grafica leve, usando o Java Swing Jframe como herança
+OBS: Entrar em contato comigo para conseguir a senha do projeto
 
 
 Linguagem Usada: Java
